@@ -2,3 +2,4 @@ Declaração de variáveis
 leitura de entrada de programa
 criação da função soma 
 criação da função subtração
+teste ok
